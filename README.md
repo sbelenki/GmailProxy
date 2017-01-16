@@ -7,7 +7,7 @@ Using GmailProxy you have more handle on how you want to represent Gmail mailbox
 
 ## Authors
 
-* **Sergei Belenki** - *Initial work* - [BaoBau](www2.baobau.com.s3-website-us-east-1.amazonaws.com)
+* **Sergei Belenki** - *Initial work* - [BaoBau](http://www2.baobau.com.s3-website-us-east-1.amazonaws.com)
 
 ## License
 
@@ -15,4 +15,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-[LumiSoft.NET](http://www.lumisoft.ee/lsWWW/ENG/index_eng.aspx?type=main) library was used as an example of POP3/SMTP server for integration, you can use any other POP3/SMTP server implementation although the events model would be different.
+[LumiSoft.NET](http://www.lumisoft.ee/lsWWW/ENG/Products/Mail_Server/mail_index_eng.aspx?type=info) library was used as an example of POP3/SMTP server for integration, you can use any other POP3/SMTP server implementation although the events model would be different.
