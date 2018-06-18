@@ -7,7 +7,7 @@ Using GmailProxy you have more handle on how you want to represent Gmail mailbox
 
 ## Authors
 
-* **Sergei Belenki** - *Initial work* - [BaoBau](http://www2.baobau.com.s3-website-us-east-1.amazonaws.com)
+* **Sergei Belenki** - *Initial work*
 
 ## License
 
